@@ -331,4 +331,4 @@ Made with ❤️ by Israeli developers
 
 [⭐ Star on GitHub](https://github.com/[USERNAME]/ultimate-stock-analysis-v2) • [🐛 Report Issues](https://github.com/[USERNAME]/ultimate-stock-analysis-v2/issues) • [💬 Discussions](https://github.com/[USERNAME]/ultimate-stock-analysis-v2/discussions)
 
-</div>
+</div>"# ultimate-stock-analysis-system" 

@@ -1,13 +1,13 @@
-import './globals.css'  // 
+import './globals.css'
+
 export default function RootLayout({
   children,
 }: {
   children: React.ReactNode
 }) {
   return (
-    <html lang="he" dir="rtl">
-      <body className="bg-gray-900 text-white">{children}</body>
+    <html lang="en">
+      <body className="bg-gray-900 text-white antialiased">{children}</body>
     </html>
   )
 }
-
